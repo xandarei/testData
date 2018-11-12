@@ -1,7 +1,7 @@
 {
 	"data": [
 		{
-			"id": "310041931"
+			"id": "310041931",
 			"firstName": "Enrique",
 			"lastName": "Cervantes",
 			"gender": "male",
@@ -24,7 +24,7 @@
 			"isRegular": true
 		},
 		{
-			"id": "310041931"
+			"id": "310041931",
 			"firstName": "Hernan",
 			"lastName": "Tellechea",
 			"gender": "male",
