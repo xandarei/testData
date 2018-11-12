@@ -9,8 +9,8 @@
 			"carrer": "Veterinary",
 			"university": "Universidad Nacional Autonoma de México",
 			"semester": "1st",
-			"photo": "",
-			"universityLogo": "",
+			"photo": "https://ep01.epimg.net/elpais/imagenes/2014/01/24/eps/1390588244_213346_1390588588_noticia_normal.jpg",
+			"universityLogo": "https://seeklogo.com/images/U/UNAM-logo-0454B87CE6-seeklogo.com.png",
 			"grade": 9.3,
 			"address": "Calzada de los tenorios 150, Int. H504, Col. Fovissste Tenorios, Del. Tlalpan, Coudad de México, México",
 			"Courses": [
@@ -32,8 +32,8 @@
 			"carrer": "Applied Mathematics and Computers",
 			"university": "Universidad Nacional Autonoma de México",
 			"semester": "5th",
-			"photo": "",
-			"universityLogo": "",
+			"photo": "https://www.elpopular.pe/sites/default/files/styles/img_620x465/public/imagen/2016/10/15/Noticia-163809-mapache-choro-1.jpg",
+			"universityLogo": "https://seeklogo.com/images/U/UNAM-logo-0454B87CE6-seeklogo.com.png",
 			"grade": 9.2,
 			"address": "Calzada de los tenorios 150, Int. H504, Col. Fovissste Tenorios, Del. Tlalpan, Coudad de México, México",
 			"Courses": [
