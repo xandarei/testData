@@ -13,7 +13,7 @@
 			"universityLogo": "https://seeklogo.com/images/U/UNAM-logo-0454B87CE6-seeklogo.com.png",
 			"grade": 9.3,
 			"address": "Calzada de los tenorios 150, Int. H504, Col. Fovissste Tenorios, Del. Tlalpan, Coudad de México, México",
-			"Courses": [
+			"courses": [
 				"Introducción a la Zootecnia",
 				"Bioquímica",
 				"Anatomía Veterinaria I",
@@ -36,7 +36,7 @@
 			"universityLogo": "https://seeklogo.com/images/U/UNAM-logo-0454B87CE6-seeklogo.com.png",
 			"grade": 9.2,
 			"address": "Calzada de los tenorios 150, Int. H504, Col. Fovissste Tenorios, Del. Tlalpan, Coudad de México, México",
-			"Courses": [
+			"courses": [
 				"Ecuaciones Diferenciales I",
 				"Estadística I",
 				"Optimización Entera y Dinámica",
